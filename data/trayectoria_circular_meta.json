@@ -1,0 +1,14 @@
+{
+  "nombre": "trayectoria_circular",
+  "frecuencia_hz": 20.0,
+  "unidades": {
+    "x": "m",
+    "y": "m",
+    "theta": "rad",
+    "vx": "m/s",
+    "vy": "m/s",
+    "omega": "rad/s"
+  },
+  "fuente": "sintetica",
+  "robot": "diferencial"
+}
